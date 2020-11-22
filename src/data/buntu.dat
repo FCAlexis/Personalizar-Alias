@@ -1,0 +1,7 @@
+# Alias personalizados
+alias actualizar='sudo apt update && sudo apt dist-upgrade'
+alias instalar='sudo apt install'
+alias apagar='poweroff'
+alias reiniciar='reboot'
+alias python3='py'
+# Fin Alias personalizados
